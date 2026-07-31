@@ -66,7 +66,7 @@
     },
     {
       id: "product3",
-      visible: false,
+      visible: true,
       title: "Product Three",
       shortDescription: "An editable description for the third work, ready to publish when the piece is available.",
       fullDescription: "Product Three is reserved for a future object, artwork or sculpture. Replace this text with its materials, dimensions, edition details and making process.",
