@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Product 4 detail 04 placeholder</title>
+  <rect x="1" y="1" width="1198" height="898" fill="#fff" stroke="#000" stroke-width="2"/>
+  <g fill="#000" font-family="Times New Roman, Times, serif" text-anchor="middle">
+    <text x="600" y="370" font-size="72">PRODUCT 4</text>
+    <text x="600" y="455" font-size="38">DETAIL 04</text>
+    <text x="600" y="525" font-size="28">product4-detail-04.svg</text>
+  </g>
+</svg>

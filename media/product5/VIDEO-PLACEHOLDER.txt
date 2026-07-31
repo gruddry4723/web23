@@ -1,0 +1,16 @@
+VIDEO PLACEHOLDER FOR PRODUCT 5
+
+Add a valid MP4 video in this folder with this filename:
+
+product5-video.mp4
+
+Then open js/products.js and change the matching video entry from:
+
+enabled: false
+
+to:
+
+enabled: true
+
+Do not rename this text file to .mp4. It is intentionally plain text so the website never receives a corrupt fake video.
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace https://www.example.com/ with the final domain before launch. -->
+  <url><loc>https://www.example.com/</loc></url>
+  <url><loc>https://www.example.com/product1/</loc></url>
+  <url><loc>https://www.example.com/product2/</loc></url>
+  <url><loc>https://www.example.com/product3/</loc></url>
+  <url><loc>https://www.example.com/product4/</loc></url>
+  <url><loc>https://www.example.com/product5/</loc></url>
+</urlset>

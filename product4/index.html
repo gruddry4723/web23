@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Product Four — BRAND</title>
+  <meta name="description" content="View Product Four by BRAND and enquire about this original artwork or sculpture by email.">
+  <!-- Replace the example.com URL below with the final domain before launch. -->
+  <link rel="canonical" href="https://www.example.com/product4/">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-product-id="product4">
+  <div class="site-shell">
+    <header class="product-header">
+      <nav class="back-nav" aria-label="Breadcrumb"><a href="../">Back to homepage</a></nav>
+      <h1 data-product-name>Product Four</h1>
+    </header>
+    <main class="product-main">
+      <p class="product-error" data-product-error hidden></p>
+      <section class="gallery" aria-label="Product media" data-gallery>
+        <div class="gallery-layout">
+          <figure class="active-media" data-active-media></figure>
+          <div class="thumbnail-list" aria-label="Choose product media" data-thumbnails></div>
+        </div>
+        <p class="visually-hidden" aria-live="polite" data-gallery-status></p>
+        <noscript><p>JavaScript is required to use the product media gallery.</p></noscript>
+      </section>
+      <section class="product-description" aria-label="Product details and ordering">
+        <p data-full-description></p>
+        <p>Please order via email with the product title in the subject line.</p>
+        <p>Each piece is made per order. Lead time (around 3-4 days) will be communicated after the order request. Submission of an enquiry does not constitute acceptance of an order. Orders are confirmed only after written acceptance by us and receipt of any required deposit.</p>
+        <p><a class="order-link" href="mailto:orders@example.com" data-order-link>Order by email</a></p>
+        <p class="order-details">Please include your name, delivery country, delivery city, preferred product or variation, and any custom requirements.</p>
+      </section>
+    </main>
+    <footer class="site-footer"><p><a href="../">BRAND homepage</a></p></footer>
+  </div>
+  <div class="zoom-overlay" role="dialog" aria-modal="true" aria-label="Enlarged product image" data-zoom-overlay hidden>
+    <div class="zoom-dialog" data-zoom-dialog>
+      <button class="zoom-close" type="button" aria-label="Close enlarged image" data-zoom-close>Close image</button>
+      <img class="zoom-image" alt="" data-zoom-image>
+    </div>
+  </div>
+  <script src="../js/products.js"></script>
+  <script src="../js/product-gallery.js"></script>
+</body>
+</html>
