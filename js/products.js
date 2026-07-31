@@ -15,12 +15,12 @@
     {
       id: "product1",
       visible: true,
-      title: "frf One",
+      title: "SpekOne - R2000",
       shortDescription: "",
       fullDescription: "Each piece is made by hand, so subtle differences in surface and form are to be expected.",
       price: "R2000",
       homepageImage: "media/homepage/product1-home.svg",
-      pageUrl: "product1/",
+      pageUrl: "spek1/",
       orderEmail: ORDER_EMAIL,
       emailSubject: "Order enquiry: Product One",
       media: [
@@ -41,7 +41,7 @@
     {
       id: "product2",
       visible: true,
-      title: "Product Two",
+      title: "Speaker Two - R1500/",
       shortDescription: "An editable description for the second work, ready to publish when the piece is available.",
       fullDescription: "Product Two is reserved for a future object, artwork or sculpture. Replace this text with its materials, dimensions, edition details and making process.",
       price: "r4",
