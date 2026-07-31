@@ -14,7 +14,7 @@
   window.PRODUCTS = [
     {
       id: "product1",
-      visible: true,
+      visible: false,
       title: "SpekOne - R2000",
       shortDescription: "",
       fullDescription: "Each piece is made by hand, so subtle differences in surface and form are to be expected.",
@@ -40,7 +40,7 @@
     },
     {
       id: "product2",
-      visible: true,
+      visible: false,
       title: "Speaker Two - R1500/",
       shortDescription: "An editable description for the second work, ready to publish when the piece is available.",
       fullDescription: "Product Two is reserved for a future object, artwork or sculpture. Replace this text with its materials, dimensions, edition details and making process.",
@@ -66,7 +66,7 @@
     },
     {
       id: "product3",
-      visible: true,
+      visible: false,
       title: "Product Three",
       shortDescription: "An editable description for the third work, ready to publish when the piece is available.",
       fullDescription: "Product Three is reserved for a future object, artwork or sculpture. Replace this text with its materials, dimensions, edition details and making process.",
