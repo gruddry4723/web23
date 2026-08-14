@@ -76,7 +76,7 @@
 
     if (visibleProducts.length === 0) {
       const message = document.createElement("p");
-      message.textContent = "No products are currently available.";
+      message.textContent = "No products are currently available";
       container.appendChild(message);
       return;
     }
